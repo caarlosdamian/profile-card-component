@@ -130,6 +130,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 88px;
+    gap: 46px;
 }
 
 .label-container {
