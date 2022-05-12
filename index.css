@@ -1,0 +1,8 @@
+:root {
+    --bg: #19A1AE;
+    --black: #2E3349;
+    --breakpoint-mobile: 375px;
+    --Dark-cyan: hsl(185, 75%, 39%);
+    --Very-dark-desaturated : hsl(229, 23%, 23%);
+    --Dark-grayish-blue: hsl(227, 10%, 46%);
+}
